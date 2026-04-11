@@ -20,25 +20,27 @@
 
 ## 👾 About Me
 
-> *"Any sufficiently advanced technology is indistinguishable from magic."* — Arthur C. Clarke
+> *"It's not that I'm so smart, it's just that I stay with problems longer."* — Albert Einstein
 
 I'm a passionate **student developer** who lives at the intersection of logic and creativity. I don't just write code — I craft solutions. Whether it's building sleek web interfaces, training intelligent models, or solving algorithmic puzzles at 2AM, I'm always in the zone.
 
 I believe programming is not just a skill — it's a **superpower**. And I'm here to master it.
 
----
-
-## 🧠 The AI/ML Obsession
-
-> *"Machine learning is the last invention that humanity will ever need to make."* — Nick Bostrom
-
-I'm deeply fascinated by how machines can **learn, adapt, and predict**. From understanding Markov properties in Reinforcement Learning to training models that see patterns humans can't — AI/ML is where I see the future being written, and I want to be one of the authors.
-
 -  Exploring **Reinforcement Learning** and agent-based systems
 -  Understanding how models learn from data — supervised, unsupervised, and beyond
 -  Passionate about building intelligent systems that solve real problems
 
+-  -  Practicing **DSA** problems regularly
+-  Strong foundation in **arrays, stacks, queues, graphs, trees**
+-  Always optimizing for **time and space complexity**
+
+-  Crafting responsive UI with **HTML & CSS**
+-  Building dynamic functionality with **JavaScript**
+-  Working with **REST APIs** and async programming
+-  Integrating real-world APIs like OpenWeatherMap
 ---
+
+
 
 ## ⚡ Skills & Technologies
 
@@ -63,7 +65,7 @@ I'm deeply fascinated by how machines can **learn, adapt, and predict**. From un
 
 ## 🔥 What Drives Me
 
-> *"It's not that I'm so smart, it's just that I stay with problems longer."* — Albert Einstein
+
 
 ```python
 class Developer:
@@ -91,32 +93,6 @@ print(me.life_motto())
 ```
 
 ---
-
-## 📊 Competitive Programming
-
-> *"Competitive programming is the sport of the mind."*
-
-I sharpen my problem-solving skills daily through competitive programming. C++ is my weapon of choice — fast, powerful, and precise. From dynamic programming to graph algorithms, I enjoy the challenge of cracking problems under pressure.
-
--  Practicing **DSA** problems regularly
--  Strong foundation in **arrays, stacks, queues, graphs, trees**
--  Always optimizing for **time and space complexity**
-
----
-
-## 🌐 Web Development
-
-> *"The web is what you make of it."*
-
-I build web experiences that are not just functional but **feel good to use**. With a solid grip on HTML, CSS, and JavaScript, I focus on creating clean, responsive, and interactive interfaces.
-
--  Crafting responsive UI with **HTML & CSS**
--  Building dynamic functionality with **JavaScript**
--  Working with **REST APIs** and async programming
--  Integrating real-world APIs like OpenWeatherMap
-
----
-
 ## 🤝 Let's Connect & Collaborate
 
 > *"Alone we can do so little; together we can do so much."* — Helen Keller
