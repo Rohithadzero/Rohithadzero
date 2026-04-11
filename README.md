@@ -30,7 +30,7 @@ I believe programming is not just a skill — it's a **superpower**. And I'm her
 -  Understanding how models learn from data — supervised, unsupervised, and beyond
 -  Passionate about building intelligent systems that solve real problems
 
--  -  Practicing **DSA** problems regularly
+-  Practicing **DSA** problems regularly
 -  Strong foundation in **arrays, stacks, queues, graphs, trees**
 -  Always optimizing for **time and space complexity**
 
@@ -103,7 +103,7 @@ I'm always looking to connect with fellow developers, innovators, and tech enthu
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rohithadzero)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rohith-ad-1914ba386)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ro0ohith_ad)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/rooohith_ad)
 
 </div>
 
@@ -112,8 +112,6 @@ I'm always looking to connect with fellow developers, innovators, and tech enthu
 <div align="center">
 
 ### ⚡ *"First, solve the problem. Then, write the code."* — John Johnson
-
-![Visitor Count](https://komarev.com/ghpvc/?username=yourusername&color=00D9FF&style=for-the-badge)
 
 *Thanks for visiting! Don't forget to ⭐ if you found something interesting.*
 
