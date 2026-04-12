@@ -70,7 +70,7 @@ I believe programming is not just a skill — it's a **superpower**. And I'm her
 ```python
 class Developer:
     def __init__(self):
-        self.name        = "Your Name"
+        self.name        = "Rohith AD"
         self.role        = "Student Developer"
         self.languages   = ["C++", "Python", "JavaScript", "HTML", "CSS"]
         self.interests   = ["Web Dev", "AI/ML", "Competitive Programming"]
@@ -103,7 +103,7 @@ I'm always looking to connect with fellow developers, innovators, and tech enthu
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rohithadzero)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rohith-ad-1914ba386)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/rooohith_ad)
+
 
 </div>
 
