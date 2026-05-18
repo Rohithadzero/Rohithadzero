@@ -54,8 +54,8 @@ I believe programming is not just a skill — it's a **superpower**. And I'm her
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### Libraries and Frameworks
-![NumPy](https://shields.io)
-![Pandas](https://shields.io)
+![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=flat&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)
 
 ### Areas of Interest
 ![Web Development](https://img.shields.io/badge/Web_Development-FF6B6B?style=for-the-badge&logo=firefox&logoColor=white)
