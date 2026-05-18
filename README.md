@@ -47,21 +47,13 @@ I believe programming is not just a skill — it's a **superpower**. And I'm her
 <div align="center">
 
 ### Languages
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=plastic&logo=python&logoColor=F7DF1E) ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=plastic&logo=javascript&logoColor=F7DF1E) ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=plastic&logo=css3&logoColor=white)
 
 ### Libraries and Frameworks
-![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=flat&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white)
 
 ### Areas of Interest
-![Web Development](https://img.shields.io/badge/Web_Development-FF6B6B?style=for-the-badge&logo=firefox&logoColor=white)
-![AI/ML](https://img.shields.io/badge/AI%2FML-00D9FF?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Competitive Programming](https://img.shields.io/badge/Competitive_Programming-6C3483?style=for-the-badge&logo=codeforces&logoColor=white)
-![App Development](https://img.shields.io/badge/App_Development-2ECC71?style=for-the-badge&logo=android&logoColor=white)
+![Web Dev](https://img.shields.io/badge/Web_Dev-%232C3E50.svg?style=plastic&logo=firefoxbrowser&logoColor=FF6B6B) ![AI/ML](https://img.shields.io/badge/AI_--_ML-%23111111.svg?style=plastic&logo=tensorflow&logoColor=00D9FF) ![CP](https://img.shields.io/badge/Comp._Programming-%234A235A.svg?style=plastic&logo=codeforces&logoColor=white) ![App Dev](https://img.shields.io/badge/App_Dev-%23145A32.svg?style=plastic&logo=android&logoColor=2ECC71)
 
 </div>
 
