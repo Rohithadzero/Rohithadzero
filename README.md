@@ -1,29 +1,9 @@
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="./assets/header-light.svg" />
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/header.svg" />
-  <img src="./assets/header.svg" width="100%" alt="Rohith AD" />
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3200&pause=900&color=656D76&center=true&vCenter=true&width=640&lines=%3E+building+local-first+desktop+apps;%3E+wiring+LLMs+into+real+tools;%3E+computer+vision+%C2%B7+signal+processing;%3E+automating+networks+end-to-end" />
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3200&pause=900&color=8B949E&center=true&vCenter=true&width=640&lines=%3E+building+local-first+desktop+apps;%3E+wiring+LLMs+into+real+tools;%3E+computer+vision+%C2%B7+signal+processing;%3E+automating+networks+end-to-end" />
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3200&pause=900&color=8B949E&center=true&vCenter=true&width=640&lines=%3E+building+local-first+desktop+apps;%3E+wiring+LLMs+into+real+tools;%3E+computer+vision+%C2%B7+signal+processing;%3E+automating+networks+end-to-end" alt="What I build" />
-</picture>
-
-</div>
+<h1 align="center">Rohith AD</h1>
 
 <p align="center">
 I build software that runs close to the machine: native desktop apps, on-device AI, browser engines and network automation.<br/>
 I care about what happens under the hood as much as what the user sees.
 </p>
-
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="./assets/divider-light.svg" />
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/divider.svg" />
-  <img src="./assets/divider.svg" width="100%" alt="" />
-</picture>
 
 ## Tech Universe
 
@@ -34,12 +14,6 @@ I care about what happens under the hood as much as what the user sees.
   <img src="./assets/orbit.svg" width="100%" alt="Technologies I work with, orbiting by category" />
 </picture>
 </div>
-
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="./assets/divider-light.svg" />
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/divider.svg" />
-  <img src="./assets/divider.svg" width="100%" alt="" />
-</picture>
 
 ## Arsenal
 
@@ -125,12 +99,6 @@ I care about what happens under the hood as much as what the user sees.
 </tr>
 </table>
 
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="./assets/divider-light.svg" />
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/divider.svg" />
-  <img src="./assets/divider.svg" width="100%" alt="" />
-</picture>
-
 ## Design &amp; Analysis
 
 <table>
@@ -168,12 +136,6 @@ I care about what happens under the hood as much as what the user sees.
 </tr>
 </table>
 
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="./assets/divider-light.svg" />
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/divider.svg" />
-  <img src="./assets/divider.svg" width="100%" alt="" />
-</picture>
-
 ## Mission Log
 
 | In orbit (learning now) | Next launch | Deep space |
@@ -184,12 +146,6 @@ I care about what happens under the hood as much as what the user sees.
 | Linux and Bash | Supabase · Firebase | System design |
 | OS · DBMS · Computer Networks | React Native · Flutter | Open-source contribution (GSoC) |
 | Cyber security and CTFs | scikit-learn | |
-
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="./assets/divider-light.svg" />
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/divider.svg" />
-  <img src="./assets/divider.svg" width="100%" alt="" />
-</picture>
 
 ## Telemetry
 
@@ -211,10 +167,4 @@ I care about what happens under the hood as much as what the user sees.
 
 <br/>
 
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="./assets/footer-light.svg" />
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/footer.svg" />
-  <img src="./assets/footer.svg" width="100%" alt="Per aspera ad astra" />
-</picture>
-</div>
+<p align="center"><sub><i>Per aspera ad astra: through hardships to the stars.</i></sub></p>
