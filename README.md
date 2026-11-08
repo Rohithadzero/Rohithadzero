@@ -7,9 +7,9 @@
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3200&pause=900&color=0969DA&center=true&vCenter=true&width=640&lines=%3E+building+local-first+desktop+apps;%3E+wiring+LLMs+into+real+tools;%3E+computer+vision+%C2%B7+signal+processing;%3E+automating+networks+end-to-end" />
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&width=640&lines=%3E+building+local-first+desktop+apps;%3E+wiring+LLMs+into+real+tools;%3E+computer+vision+%C2%B7+signal+processing;%3E+automating+networks+end-to-end" />
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&width=640&lines=%3E+building+local-first+desktop+apps;%3E+wiring+LLMs+into+real+tools;%3E+computer+vision+%C2%B7+signal+processing;%3E+automating+networks+end-to-end" alt="What I build" />
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3200&pause=900&color=656D76&center=true&vCenter=true&width=640&lines=%3E+building+local-first+desktop+apps;%3E+wiring+LLMs+into+real+tools;%3E+computer+vision+%C2%B7+signal+processing;%3E+automating+networks+end-to-end" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3200&pause=900&color=8B949E&center=true&vCenter=true&width=640&lines=%3E+building+local-first+desktop+apps;%3E+wiring+LLMs+into+real+tools;%3E+computer+vision+%C2%B7+signal+processing;%3E+automating+networks+end-to-end" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3200&pause=900&color=8B949E&center=true&vCenter=true&width=640&lines=%3E+building+local-first+desktop+apps;%3E+wiring+LLMs+into+real+tools;%3E+computer+vision+%C2%B7+signal+processing;%3E+automating+networks+end-to-end" alt="What I build" />
 </picture>
 
 </div>

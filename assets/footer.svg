@@ -2,10 +2,10 @@
   <title>Per aspera ad astra</title>
   <defs>
     <radialGradient id="horizon" cx=".5" cy="0" r=".6">
-      <stop offset="0" stop-color="#58a6ff" stop-opacity=".55"/><stop offset=".25" stop-color="#1f6feb" stop-opacity=".25"/><stop offset="1" stop-color="#1f6feb" stop-opacity="0"/>
+      <stop offset="0" stop-color="#8b949e" stop-opacity=".55"/><stop offset=".25" stop-color="#6e7681" stop-opacity=".25"/><stop offset="1" stop-color="#6e7681" stop-opacity="0"/>
     </radialGradient>
     <linearGradient id="trail" x1="1" y1="0" x2="0" y2="0">
-      <stop offset="0" stop-color="#e6edf3"/><stop offset="1" stop-color="#58a6ff" stop-opacity="0"/>
+      <stop offset="0" stop-color="#e6edf3"/><stop offset="1" stop-color="#8b949e" stop-opacity="0"/>
     </linearGradient>
     <linearGradient id="fadeg" x1="0" x2="1"><stop offset="0" stop-color="#000"/><stop offset=".18" stop-color="#fff"/><stop offset=".82" stop-color="#fff"/><stop offset="1" stop-color="#000"/></linearGradient>
     <mask id="fade" maskUnits="userSpaceOnUse" x="0" y="0" width="1200" height="220"><rect width="1200" height="220" fill="url(#fadeg)"/></mask>
@@ -126,7 +126,7 @@
       <animate attributeName="opacity" values=".75;1;.75" dur="7s" repeatCount="indefinite"/>
     </ellipse>
     <ellipse cx="600" cy="580" rx="880" ry="400" fill="#0d1117"/>
-    <ellipse cx="600" cy="580" rx="880" ry="400" fill="none" stroke="#58a6ff" stroke-opacity=".8" stroke-width="1.5"/>
+    <ellipse cx="600" cy="580" rx="880" ry="400" fill="none" stroke="#8b949e" stroke-opacity=".8" stroke-width="1.5"/>
   </g>
   <text x="600" y="120" text-anchor="middle" font-family="'JetBrains Mono', 'Fira Code', Consolas, 'Courier New', monospace" font-size="18" letter-spacing="8" fill="#e6edf3">PER ASPERA AD ASTRA
     <animate attributeName="opacity" values=".6;1;.6" dur="5s" repeatCount="indefinite"/>

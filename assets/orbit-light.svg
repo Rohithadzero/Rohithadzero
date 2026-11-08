@@ -2,12 +2,12 @@
   <title>Tech universe</title>
   <defs>
     <radialGradient id="bg" cx=".5" cy=".5" r=".6">
-      <stop offset="0" stop-color="#0969da" stop-opacity=".10"/><stop offset="1" stop-color="#0969da" stop-opacity="0"/>
+      <stop offset="0" stop-color="#8c959f" stop-opacity=".12"/><stop offset="1" stop-color="#8c959f" stop-opacity="0"/>
     </radialGradient>
     <radialGradient id="sun" cx=".4" cy=".35" r=".7">
-      <stop offset="0" stop-color="#ffffff"/><stop offset=".35" stop-color="#b6e3ff"/><stop offset=".8" stop-color="#54aeff"/><stop offset="1" stop-color="#0969da"/>
+      <stop offset="0" stop-color="#ffffff"/><stop offset=".35" stop-color="#d0d7de"/><stop offset=".8" stop-color="#8c959f"/><stop offset="1" stop-color="#424a53"/>
     </radialGradient>
-    <radialGradient id="corona"><stop offset="0" stop-color="#0969da" stop-opacity=".45"/><stop offset="1" stop-color="#0969da" stop-opacity="0"/></radialGradient>
+    <radialGradient id="corona"><stop offset="0" stop-color="#57606a" stop-opacity=".45"/><stop offset="1" stop-color="#57606a" stop-opacity="0"/></radialGradient>
     
     <filter id="starglow" x="-300%" y="-300%" width="700%" height="700%">
       <feGaussianBlur stdDeviation="1.6" result="b"/>
@@ -142,38 +142,38 @@
   <ellipse cx="500" cy="255" rx="175" ry="62" fill="none" stroke="#656d76" stroke-opacity=".35" stroke-width="1" stroke-dasharray="2 6"/>
     <g>
       <animateMotion dur="26s" begin="0.00s" repeatCount="indefinite" path="M 675 255 A 175 62 0 1 1 325 255 A 175 62 0 1 1 675 255"/>
-      <circle r="14.4" fill="#0969da" opacity=".15"/>
-      <circle r="6.0" fill="#0969da"/>
+      <circle r="14.4" fill="#1f2328" opacity=".15"/>
+      <circle r="6.0" fill="#1f2328"/>
       <text y="-14.0" text-anchor="middle" font-family="'JetBrains Mono', 'Fira Code', Consolas, 'Courier New', monospace" font-size="14" fill="#1f2328">C++</text>
     </g>
     <g>
       <animateMotion dur="26s" begin="-4.33s" repeatCount="indefinite" path="M 675 255 A 175 62 0 1 1 325 255 A 175 62 0 1 1 675 255"/>
-      <circle r="14.4" fill="#0969da" opacity=".15"/>
-      <circle r="6.0" fill="#0969da"/>
+      <circle r="14.4" fill="#1f2328" opacity=".15"/>
+      <circle r="6.0" fill="#1f2328"/>
       <text y="-14.0" text-anchor="middle" font-family="'JetBrains Mono', 'Fira Code', Consolas, 'Courier New', monospace" font-size="14" fill="#1f2328">Python</text>
     </g>
     <g>
       <animateMotion dur="26s" begin="-8.67s" repeatCount="indefinite" path="M 675 255 A 175 62 0 1 1 325 255 A 175 62 0 1 1 675 255"/>
-      <circle r="14.4" fill="#0969da" opacity=".15"/>
-      <circle r="6.0" fill="#0969da"/>
+      <circle r="14.4" fill="#1f2328" opacity=".15"/>
+      <circle r="6.0" fill="#1f2328"/>
       <text y="-14.0" text-anchor="middle" font-family="'JetBrains Mono', 'Fira Code', Consolas, 'Courier New', monospace" font-size="14" fill="#1f2328">TypeScript</text>
     </g>
     <g>
       <animateMotion dur="26s" begin="-13.00s" repeatCount="indefinite" path="M 675 255 A 175 62 0 1 1 325 255 A 175 62 0 1 1 675 255"/>
-      <circle r="14.4" fill="#0969da" opacity=".15"/>
-      <circle r="6.0" fill="#0969da"/>
+      <circle r="14.4" fill="#1f2328" opacity=".15"/>
+      <circle r="6.0" fill="#1f2328"/>
       <text y="-14.0" text-anchor="middle" font-family="'JetBrains Mono', 'Fira Code', Consolas, 'Courier New', monospace" font-size="14" fill="#1f2328">Rust</text>
     </g>
     <g>
       <animateMotion dur="26s" begin="-17.33s" repeatCount="indefinite" path="M 675 255 A 175 62 0 1 1 325 255 A 175 62 0 1 1 675 255"/>
-      <circle r="14.4" fill="#0969da" opacity=".15"/>
-      <circle r="6.0" fill="#0969da"/>
+      <circle r="14.4" fill="#1f2328" opacity=".15"/>
+      <circle r="6.0" fill="#1f2328"/>
       <text y="-14.0" text-anchor="middle" font-family="'JetBrains Mono', 'Fira Code', Consolas, 'Courier New', monospace" font-size="14" fill="#1f2328">JavaScript</text>
     </g>
     <g>
       <animateMotion dur="26s" begin="-21.67s" repeatCount="indefinite" path="M 675 255 A 175 62 0 1 1 325 255 A 175 62 0 1 1 675 255"/>
-      <circle r="14.4" fill="#0969da" opacity=".15"/>
-      <circle r="6.0" fill="#0969da"/>
+      <circle r="14.4" fill="#1f2328" opacity=".15"/>
+      <circle r="6.0" fill="#1f2328"/>
       <text y="-14.0" text-anchor="middle" font-family="'JetBrains Mono', 'Fira Code', Consolas, 'Courier New', monospace" font-size="14" fill="#1f2328">SQL</text>
     </g><ellipse cx="500" cy="255" rx="305" ry="112" fill="none" stroke="#656d76" stroke-opacity=".35" stroke-width="1" stroke-dasharray="2 6"/>
     <g>
@@ -232,65 +232,65 @@
     </g><ellipse cx="500" cy="255" rx="445" ry="172" fill="none" stroke="#656d76" stroke-opacity=".35" stroke-width="1" stroke-dasharray="2 6"/>
     <g>
       <animateMotion dur="64s" begin="0.00s" repeatCount="indefinite" path="M 945 255 A 445 172 0 1 1 55 255 A 445 172 0 1 1 945 255"/>
-      <circle r="10.6" fill="#1a7f37" opacity=".15"/>
-      <circle r="4.4" fill="#1a7f37"/>
+      <circle r="10.6" fill="#8c959f" opacity=".15"/>
+      <circle r="4.4" fill="#8c959f"/>
       <text y="-12.4" text-anchor="middle" font-family="'JetBrains Mono', 'Fira Code', Consolas, 'Courier New', monospace" font-size="12" fill="#1f2328">Ollama</text>
     </g>
     <g>
       <animateMotion dur="64s" begin="-6.40s" repeatCount="indefinite" path="M 945 255 A 445 172 0 1 1 55 255 A 445 172 0 1 1 945 255"/>
-      <circle r="10.6" fill="#1a7f37" opacity=".15"/>
-      <circle r="4.4" fill="#1a7f37"/>
+      <circle r="10.6" fill="#8c959f" opacity=".15"/>
+      <circle r="4.4" fill="#8c959f"/>
       <text y="-12.4" text-anchor="middle" font-family="'JetBrains Mono', 'Fira Code', Consolas, 'Courier New', monospace" font-size="12" fill="#1f2328">llama.cpp</text>
     </g>
     <g>
       <animateMotion dur="64s" begin="-12.80s" repeatCount="indefinite" path="M 945 255 A 445 172 0 1 1 55 255 A 445 172 0 1 1 945 255"/>
-      <circle r="10.6" fill="#1a7f37" opacity=".15"/>
-      <circle r="4.4" fill="#1a7f37"/>
+      <circle r="10.6" fill="#8c959f" opacity=".15"/>
+      <circle r="4.4" fill="#8c959f"/>
       <text y="-12.4" text-anchor="middle" font-family="'JetBrains Mono', 'Fira Code', Consolas, 'Courier New', monospace" font-size="12" fill="#1f2328">LangChain</text>
     </g>
     <g>
       <animateMotion dur="64s" begin="-19.20s" repeatCount="indefinite" path="M 945 255 A 445 172 0 1 1 55 255 A 445 172 0 1 1 945 255"/>
-      <circle r="10.6" fill="#1a7f37" opacity=".15"/>
-      <circle r="4.4" fill="#1a7f37"/>
+      <circle r="10.6" fill="#8c959f" opacity=".15"/>
+      <circle r="4.4" fill="#8c959f"/>
       <text y="-12.4" text-anchor="middle" font-family="'JetBrains Mono', 'Fira Code', Consolas, 'Courier New', monospace" font-size="12" fill="#1f2328">ChromaDB</text>
     </g>
     <g>
       <animateMotion dur="64s" begin="-25.60s" repeatCount="indefinite" path="M 945 255 A 445 172 0 1 1 55 255 A 445 172 0 1 1 945 255"/>
-      <circle r="10.6" fill="#1a7f37" opacity=".15"/>
-      <circle r="4.4" fill="#1a7f37"/>
+      <circle r="10.6" fill="#8c959f" opacity=".15"/>
+      <circle r="4.4" fill="#8c959f"/>
       <text y="-12.4" text-anchor="middle" font-family="'JetBrains Mono', 'Fira Code', Consolas, 'Courier New', monospace" font-size="12" fill="#1f2328">FAISS</text>
     </g>
     <g>
       <animateMotion dur="64s" begin="-32.00s" repeatCount="indefinite" path="M 945 255 A 445 172 0 1 1 55 255 A 445 172 0 1 1 945 255"/>
-      <circle r="10.6" fill="#1a7f37" opacity=".15"/>
-      <circle r="4.4" fill="#1a7f37"/>
+      <circle r="10.6" fill="#8c959f" opacity=".15"/>
+      <circle r="4.4" fill="#8c959f"/>
       <text y="-12.4" text-anchor="middle" font-family="'JetBrains Mono', 'Fira Code', Consolas, 'Courier New', monospace" font-size="12" fill="#1f2328">MediaPipe</text>
     </g>
     <g>
       <animateMotion dur="64s" begin="-38.40s" repeatCount="indefinite" path="M 945 255 A 445 172 0 1 1 55 255 A 445 172 0 1 1 945 255"/>
-      <circle r="10.6" fill="#1a7f37" opacity=".15"/>
-      <circle r="4.4" fill="#1a7f37"/>
+      <circle r="10.6" fill="#8c959f" opacity=".15"/>
+      <circle r="4.4" fill="#8c959f"/>
       <text y="-12.4" text-anchor="middle" font-family="'JetBrains Mono', 'Fira Code', Consolas, 'Courier New', monospace" font-size="12" fill="#1f2328">NumPy</text>
     </g>
     <g>
       <animateMotion dur="64s" begin="-44.80s" repeatCount="indefinite" path="M 945 255 A 445 172 0 1 1 55 255 A 445 172 0 1 1 945 255"/>
-      <circle r="10.6" fill="#1a7f37" opacity=".15"/>
-      <circle r="4.4" fill="#1a7f37"/>
+      <circle r="10.6" fill="#8c959f" opacity=".15"/>
+      <circle r="4.4" fill="#8c959f"/>
       <text y="-12.4" text-anchor="middle" font-family="'JetBrains Mono', 'Fira Code', Consolas, 'Courier New', monospace" font-size="12" fill="#1f2328">SciPy</text>
     </g>
     <g>
       <animateMotion dur="64s" begin="-51.20s" repeatCount="indefinite" path="M 945 255 A 445 172 0 1 1 55 255 A 445 172 0 1 1 945 255"/>
-      <circle r="10.6" fill="#1a7f37" opacity=".15"/>
-      <circle r="4.4" fill="#1a7f37"/>
+      <circle r="10.6" fill="#8c959f" opacity=".15"/>
+      <circle r="4.4" fill="#8c959f"/>
       <text y="-12.4" text-anchor="middle" font-family="'JetBrains Mono', 'Fira Code', Consolas, 'Courier New', monospace" font-size="12" fill="#1f2328">Packet Tracer</text>
     </g>
     <g>
       <animateMotion dur="64s" begin="-57.60s" repeatCount="indefinite" path="M 945 255 A 445 172 0 1 1 55 255 A 445 172 0 1 1 945 255"/>
-      <circle r="10.6" fill="#1a7f37" opacity=".15"/>
-      <circle r="4.4" fill="#1a7f37"/>
+      <circle r="10.6" fill="#8c959f" opacity=".15"/>
+      <circle r="4.4" fill="#8c959f"/>
       <text y="-12.4" text-anchor="middle" font-family="'JetBrains Mono', 'Fira Code', Consolas, 'Courier New', monospace" font-size="12" fill="#1f2328">Git</text>
     </g>
-  <text x="24" y="498" font-family="'JetBrains Mono', 'Fira Code', Consolas, 'Courier New', monospace" font-size="13" fill="#0969da">● languages</text>
+  <text x="24" y="498" font-family="'JetBrains Mono', 'Fira Code', Consolas, 'Courier New', monospace" font-size="13" fill="#1f2328">● languages</text>
   <text x="150" y="498" font-family="'JetBrains Mono', 'Fira Code', Consolas, 'Courier New', monospace" font-size="13" fill="#57606a">● frameworks</text>
-  <text x="290" y="498" font-family="'JetBrains Mono', 'Fira Code', Consolas, 'Courier New', monospace" font-size="13" fill="#1a7f37">● ai · data · tools</text>
+  <text x="290" y="498" font-family="'JetBrains Mono', 'Fira Code', Consolas, 'Courier New', monospace" font-size="13" fill="#8c959f">● ai · data · tools</text>
 </svg>
