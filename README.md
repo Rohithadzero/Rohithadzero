@@ -28,7 +28,7 @@ I care about what happens under the hood as much as what the user sees.
 <td align="right" width="190"><b>Languages</b></td>
 <td>
 <img src="https://skillicons.dev/icons?i=cpp,py,ts,js,rust,html,css&theme=dark" height="40" alt="C++, Python, TypeScript, JavaScript, Rust, HTML, CSS" />
-<img src="https://img.shields.io/badge/SQL-0b0626?style=for-the-badge&logo=mysql&logoColor=C4B5FD" height="28" alt="SQL" />
+<img src="https://img.shields.io/badge/SQL-161b22?style=for-the-badge&logo=mysql&logoColor=C4B5FD" height="28" alt="SQL" />
 </td>
 </tr>
 <tr>
@@ -41,60 +41,60 @@ I care about what happens under the hood as much as what the user sees.
 <td align="right"><b>Backend &amp; APIs</b></td>
 <td>
 <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi&theme=dark" height="40" alt="Node.js, Express, FastAPI" />
-<img src="https://img.shields.io/badge/REST-0b0626?style=for-the-badge&logo=openapiinitiative&logoColor=C4B5FD" height="28" alt="REST" />
-<img src="https://img.shields.io/badge/Socket.IO-0b0626?style=for-the-badge&logo=socketdotio&logoColor=C4B5FD" height="28" alt="Socket.IO" />
-<img src="https://img.shields.io/badge/MCP-0b0626?style=for-the-badge&logo=anthropic&logoColor=C4B5FD" height="28" alt="Model Context Protocol" />
+<img src="https://img.shields.io/badge/REST-161b22?style=for-the-badge&logo=openapiinitiative&logoColor=C4B5FD" height="28" alt="REST" />
+<img src="https://img.shields.io/badge/Socket.IO-161b22?style=for-the-badge&logo=socketdotio&logoColor=C4B5FD" height="28" alt="Socket.IO" />
+<img src="https://img.shields.io/badge/MCP-161b22?style=for-the-badge&logo=anthropic&logoColor=C4B5FD" height="28" alt="Model Context Protocol" />
 </td>
 </tr>
 <tr>
 <td align="right"><b>Desktop &amp; Native</b></td>
 <td>
 <img src="https://skillicons.dev/icons?i=tauri,electron,qt&theme=dark" height="40" alt="Tauri, Electron, Qt" />
-<img src="https://img.shields.io/badge/Win32_API-0b0626?style=for-the-badge&logo=c&logoColor=C4B5FD" height="28" alt="Win32 API" />
-<img src="https://img.shields.io/badge/Chrome_Extensions-0b0626?style=for-the-badge&logo=googlechrome&logoColor=C4B5FD" height="28" alt="Chrome Extensions (MV3)" />
+<img src="https://img.shields.io/badge/Win32_API-161b22?style=for-the-badge&logo=c&logoColor=C4B5FD" height="28" alt="Win32 API" />
+<img src="https://img.shields.io/badge/Chrome_Extensions-161b22?style=for-the-badge&logo=googlechrome&logoColor=C4B5FD" height="28" alt="Chrome Extensions (MV3)" />
 </td>
 </tr>
 <tr>
 <td align="right"><b>AI &amp; ML</b></td>
 <td>
-<img src="https://img.shields.io/badge/Ollama-0b0626?style=for-the-badge&logo=ollama&logoColor=F0ABFC" height="28" alt="Ollama" />
-<img src="https://img.shields.io/badge/llama.cpp-0b0626?style=for-the-badge&logo=meta&logoColor=F0ABFC" height="28" alt="llama.cpp" />
-<img src="https://img.shields.io/badge/LangChain-0b0626?style=for-the-badge&logo=langchain&logoColor=F0ABFC" height="28" alt="LangChain" />
-<img src="https://img.shields.io/badge/Hugging_Face-0b0626?style=for-the-badge&logo=huggingface&logoColor=F0ABFC" height="28" alt="Hugging Face" />
-<img src="https://img.shields.io/badge/ChromaDB-0b0626?style=for-the-badge&logoColor=F0ABFC" height="28" alt="ChromaDB" />
-<img src="https://img.shields.io/badge/FAISS-0b0626?style=for-the-badge&logo=meta&logoColor=F0ABFC" height="28" alt="FAISS" />
-<img src="https://img.shields.io/badge/MediaPipe-0b0626?style=for-the-badge&logo=mediapipe&logoColor=F0ABFC" height="28" alt="MediaPipe" />
-<img src="https://img.shields.io/badge/ONNX-0b0626?style=for-the-badge&logo=onnx&logoColor=F0ABFC" height="28" alt="ONNX" />
+<img src="https://img.shields.io/badge/Ollama-161b22?style=for-the-badge&logo=ollama&logoColor=F0ABFC" height="28" alt="Ollama" />
+<img src="https://img.shields.io/badge/llama.cpp-161b22?style=for-the-badge&logo=meta&logoColor=F0ABFC" height="28" alt="llama.cpp" />
+<img src="https://img.shields.io/badge/LangChain-161b22?style=for-the-badge&logo=langchain&logoColor=F0ABFC" height="28" alt="LangChain" />
+<img src="https://img.shields.io/badge/Hugging_Face-161b22?style=for-the-badge&logo=huggingface&logoColor=F0ABFC" height="28" alt="Hugging Face" />
+<img src="https://img.shields.io/badge/ChromaDB-161b22?style=for-the-badge&logoColor=F0ABFC" height="28" alt="ChromaDB" />
+<img src="https://img.shields.io/badge/FAISS-161b22?style=for-the-badge&logo=meta&logoColor=F0ABFC" height="28" alt="FAISS" />
+<img src="https://img.shields.io/badge/MediaPipe-161b22?style=for-the-badge&logo=mediapipe&logoColor=F0ABFC" height="28" alt="MediaPipe" />
+<img src="https://img.shields.io/badge/ONNX-161b22?style=for-the-badge&logo=onnx&logoColor=F0ABFC" height="28" alt="ONNX" />
 </td>
 </tr>
 <tr>
 <td align="right"><b>Scientific Computing</b></td>
 <td>
-<img src="https://img.shields.io/badge/NumPy-0b0626?style=for-the-badge&logo=numpy&logoColor=67E8F9" height="28" alt="NumPy" />
-<img src="https://img.shields.io/badge/SciPy-0b0626?style=for-the-badge&logo=scipy&logoColor=67E8F9" height="28" alt="SciPy" />
-<img src="https://img.shields.io/badge/Matplotlib-0b0626?style=for-the-badge&logo=plotly&logoColor=67E8F9" height="28" alt="Matplotlib" />
+<img src="https://img.shields.io/badge/NumPy-161b22?style=for-the-badge&logo=numpy&logoColor=67E8F9" height="28" alt="NumPy" />
+<img src="https://img.shields.io/badge/SciPy-161b22?style=for-the-badge&logo=scipy&logoColor=67E8F9" height="28" alt="SciPy" />
+<img src="https://img.shields.io/badge/Matplotlib-161b22?style=for-the-badge&logo=plotly&logoColor=67E8F9" height="28" alt="Matplotlib" />
 </td>
 </tr>
 <tr>
 <td align="right"><b>Databases</b></td>
 <td>
 <img src="https://skillicons.dev/icons?i=mysql,sqlite&theme=dark" height="40" alt="MySQL, SQLite" />
-<img src="https://img.shields.io/badge/SQLAlchemy-0b0626?style=for-the-badge&logo=sqlalchemy&logoColor=C4B5FD" height="28" alt="SQLAlchemy" />
+<img src="https://img.shields.io/badge/SQLAlchemy-161b22?style=for-the-badge&logo=sqlalchemy&logoColor=C4B5FD" height="28" alt="SQLAlchemy" />
 </td>
 </tr>
 <tr>
 <td align="right"><b>Networking</b></td>
 <td>
-<img src="https://img.shields.io/badge/Cisco_Packet_Tracer-0b0626?style=for-the-badge&logo=cisco&logoColor=67E8F9" height="28" alt="Cisco Packet Tracer" />
-<img src="https://img.shields.io/badge/VLAN_%C2%B7_ACL_%C2%B7_DHCP_%C2%B7_DNS-0b0626?style=for-the-badge&logoColor=67E8F9" height="28" alt="VLANs, ACLs, DHCP, DNS" />
+<img src="https://img.shields.io/badge/Cisco_Packet_Tracer-161b22?style=for-the-badge&logo=cisco&logoColor=67E8F9" height="28" alt="Cisco Packet Tracer" />
+<img src="https://img.shields.io/badge/VLAN_%C2%B7_ACL_%C2%B7_DHCP_%C2%B7_DNS-161b22?style=for-the-badge&logoColor=67E8F9" height="28" alt="VLANs, ACLs, DHCP, DNS" />
 </td>
 </tr>
 <tr>
 <td align="right"><b>Testing</b></td>
 <td>
-<img src="https://img.shields.io/badge/Vitest-0b0626?style=for-the-badge&logo=vitest&logoColor=C4B5FD" height="28" alt="Vitest" />
-<img src="https://img.shields.io/badge/Playwright-0b0626?style=for-the-badge&logo=googlechrome&logoColor=C4B5FD" height="28" alt="Playwright" />
-<img src="https://img.shields.io/badge/pytest-0b0626?style=for-the-badge&logo=pytest&logoColor=C4B5FD" height="28" alt="pytest" />
+<img src="https://img.shields.io/badge/Vitest-161b22?style=for-the-badge&logo=vitest&logoColor=C4B5FD" height="28" alt="Vitest" />
+<img src="https://img.shields.io/badge/Playwright-161b22?style=for-the-badge&logo=googlechrome&logoColor=C4B5FD" height="28" alt="Playwright" />
+<img src="https://img.shields.io/badge/pytest-161b22?style=for-the-badge&logo=pytest&logoColor=C4B5FD" height="28" alt="pytest" />
 </td>
 </tr>
 <tr>
@@ -165,7 +165,7 @@ I care about what happens under the hood as much as what the user sees.
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rohithadzero&theme=tokyonight" width="100%" alt="GitHub contribution summary" />
 
-<img src="https://streak-stats.demolab.com?user=Rohithadzero&background=0B0626&ring=A78BFA&fire=F0ABFC&currStreakLabel=C4B5FD&sideLabels=C4B5FD&currStreakNum=EDE9FE&sideNums=EDE9FE&dates=8B7FB8&stroke=2A1F5C&hide_border=true" alt="GitHub streak" />
+<img src="https://streak-stats.demolab.com?user=Rohithadzero&background=0D1117&ring=A78BFA&fire=F0ABFC&currStreakLabel=C4B5FD&sideLabels=C4B5FD&currStreakNum=EDE9FE&sideNums=EDE9FE&dates=8B7FB8&stroke=30363D&hide_border=true" alt="GitHub streak" />
 
 </div>
 
