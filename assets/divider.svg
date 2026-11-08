@@ -1,9 +1,11 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 34" width="1000" height="34" role="img" aria-label="divider">
   <defs>
     <linearGradient id="line" x1="0" x2="1">
-      <stop offset="0" stop-color="#7c3aed" stop-opacity="0"/><stop offset=".5" stop-color="#c4b5fd"/><stop offset="1" stop-color="#7c3aed" stop-opacity="0"/>
+      <stop offset="0" stop-color="#8b949e" stop-opacity="0"/><stop offset=".5" stop-color="#8b949e"/><stop offset="1" stop-color="#8b949e" stop-opacity="0"/>
     </linearGradient>
-    <linearGradient id="trail" x1="1" x2="0"><stop offset="0" stop-color="#fff"/><stop offset="1" stop-color="#f0abfc" stop-opacity="0"/></linearGradient>
+    <linearGradient id="trail" x1="1" y1="0" x2="0" y2="0">
+      <stop offset="0" stop-color="#e6edf3"/><stop offset="1" stop-color="#58a6ff" stop-opacity="0"/>
+    </linearGradient>
     
     <filter id="starglow" x="-300%" y="-300%" width="700%" height="700%">
       <feGaussianBlur stdDeviation="1.6" result="b"/>
@@ -12,8 +14,8 @@
 
   </defs>
   <style>
-    .s { fill: #fff; animation: twinkle ease-in-out infinite; }
-    .big { fill: #e9d5ff; filter: url(#starglow); }
+    .s { fill: #e6edf3; animation: twinkle ease-in-out infinite; }
+    .big { fill: #c9d1d9; filter: url(#starglow); }
     @keyframes twinkle { 0%,100% { opacity: .15 } 50% { opacity: 1 } }
 </style>
   <rect x="0" y="17.0" width="1000" height="1" fill="url(#line)" opacity=".6"/>
@@ -61,7 +63,7 @@
   </g>
   <g>
     <rect x="-90" y="16.0" width="90" height="2" fill="url(#trail)"/>
-    <circle cx="0" cy="17.0" r="2.6" fill="#fff" filter="url(#starglow)"/>
+    <circle cx="0" cy="17.0" r="2.6" fill="#58a6ff" filter="url(#starglow)"/>
     <animateTransform attributeName="transform" type="translate" values="-20 0; 1100 0" dur="6s" repeatCount="indefinite"/>
   </g>
 </svg>

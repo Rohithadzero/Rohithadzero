@@ -1,14 +1,11 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 220" width="1200" height="220" role="img" aria-label="Per aspera ad astra">
   <title>Per aspera ad astra</title>
   <defs>
-    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0" stop-color="#0d1117"/><stop offset="1" stop-color="#0d1117"/>
-    </linearGradient>
     <radialGradient id="horizon" cx=".5" cy="0" r=".6">
-      <stop offset="0" stop-color="#a78bfa" stop-opacity=".9"/><stop offset=".25" stop-color="#7c3aed" stop-opacity=".45"/><stop offset="1" stop-color="#7c3aed" stop-opacity="0"/>
+      <stop offset="0" stop-color="#58a6ff" stop-opacity=".55"/><stop offset=".25" stop-color="#1f6feb" stop-opacity=".25"/><stop offset="1" stop-color="#1f6feb" stop-opacity="0"/>
     </radialGradient>
     <linearGradient id="trail" x1="1" y1="0" x2="0" y2="0">
-      <stop offset="0" stop-color="#fff"/><stop offset="1" stop-color="#a78bfa" stop-opacity="0"/>
+      <stop offset="0" stop-color="#e6edf3"/><stop offset="1" stop-color="#58a6ff" stop-opacity="0"/>
     </linearGradient>
     <linearGradient id="fadeg" x1="0" x2="1"><stop offset="0" stop-color="#000"/><stop offset=".18" stop-color="#fff"/><stop offset=".82" stop-color="#fff"/><stop offset="1" stop-color="#000"/></linearGradient>
     <mask id="fade" maskUnits="userSpaceOnUse" x="0" y="0" width="1200" height="220"><rect width="1200" height="220" fill="url(#fadeg)"/></mask>
@@ -20,12 +17,11 @@
 
   </defs>
   <style>
-    .s { fill: #fff; animation: twinkle ease-in-out infinite; }
-    .big { fill: #e9d5ff; filter: url(#starglow); }
+    .s { fill: #e6edf3; animation: twinkle ease-in-out infinite; }
+    .big { fill: #c9d1d9; filter: url(#starglow); }
     @keyframes twinkle { 0%,100% { opacity: .15 } 50% { opacity: 1 } }
 </style>
-  <g>
-  <rect width="1200" height="220" fill="url(#sky)"/>
+  <rect width="1200" height="220" fill="#0d1117"/>
   <g>
     <circle class="s" cx="197.9" cy="103.5" r="1.16" style="animation-duration:4.26s;animation-delay:-1.3s"/>
     <circle class="s" cx="951.2" cy="121.2" r="1.01" style="animation-duration:4.37s;animation-delay:-1.42s"/>
@@ -121,20 +117,19 @@
   
     <g opacity="0">
       <line x1="500" y1="30" x2="410" y2="-10.5" stroke="url(#trail)" stroke-width="2" stroke-linecap="round"/>
-      <circle cx="500" cy="30" r="2.2" fill="#fff" filter="url(#starglow)"/>
+      <circle cx="500" cy="30" r="2.2" fill="#e6edf3" filter="url(#starglow)"/>
       <animateTransform attributeName="transform" type="translate" values="0 0; 420 190; 420 190" keyTimes="0;0.12;1" dur="10s" begin="2s" repeatCount="indefinite"/>
       <animate attributeName="opacity" values="0;1;0;0" keyTimes="0;0.03;0.12;1" dur="10s" begin="2s" repeatCount="indefinite"/>
     </g>
   <g mask="url(#fade)">
-  <ellipse cx="600" cy="560" rx="900" ry="400" fill="url(#horizon)">
-    <animate attributeName="opacity" values=".75;1;.75" dur="7s" repeatCount="indefinite"/>
-  </ellipse>
-  <ellipse cx="600" cy="580" rx="880" ry="400" fill="#0d1117"/>
-  <ellipse cx="600" cy="580" rx="880" ry="400" fill="none" stroke="#c4b5fd" stroke-opacity=".7" stroke-width="1.5"/>
+    <ellipse cx="600" cy="560" rx="900" ry="400" fill="url(#horizon)">
+      <animate attributeName="opacity" values=".75;1;.75" dur="7s" repeatCount="indefinite"/>
+    </ellipse>
+    <ellipse cx="600" cy="580" rx="880" ry="400" fill="#0d1117"/>
+    <ellipse cx="600" cy="580" rx="880" ry="400" fill="none" stroke="#58a6ff" stroke-opacity=".8" stroke-width="1.5"/>
   </g>
-  <text x="600" y="120" text-anchor="middle" font-family="'JetBrains Mono', 'Fira Code', Consolas, 'Courier New', monospace" font-size="18" letter-spacing="8" fill="#ede9fe">PER ASPERA AD ASTRA
-    <animate attributeName="opacity" values=".55;1;.55" dur="5s" repeatCount="indefinite"/>
+  <text x="600" y="120" text-anchor="middle" font-family="'JetBrains Mono', 'Fira Code', Consolas, 'Courier New', monospace" font-size="18" letter-spacing="8" fill="#e6edf3">PER ASPERA AD ASTRA
+    <animate attributeName="opacity" values=".6;1;.6" dur="5s" repeatCount="indefinite"/>
   </text>
-  <text x="600" y="148" text-anchor="middle" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13" letter-spacing="3" fill="#a78bfa">through hardships to the stars</text>
-  </g>
+  <text x="600" y="148" text-anchor="middle" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13" letter-spacing="3" fill="#8b949e">through hardships to the stars</text>
 </svg>
