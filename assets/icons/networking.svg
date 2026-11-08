@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 256 256" role="img" aria-label="VLAN, ACL, DHCP, DNS"><title>VLAN, ACL, DHCP, DNS</title><rect width="256" height="256" rx="60" fill="#242938"/>
+  <g stroke="#8b949e" stroke-width="8">
+    <line x1="128" y1="128" x2="62" y2="70"/><line x1="128" y1="128" x2="194" y2="70"/>
+    <line x1="128" y1="128" x2="62" y2="186"/><line x1="128" y1="128" x2="194" y2="186"/>
+    <line x1="62" y1="70" x2="194" y2="70" stroke-dasharray="10 10"/>
+  </g>
+  <rect x="100" y="100" width="56" height="56" rx="12" fill="#1ba0d7"/>
+  <g fill="#ffffff"><circle cx="62" cy="70" r="20"/><circle cx="194" cy="70" r="20"/><circle cx="62" cy="186" r="20"/><circle cx="194" cy="186" r="20"/></g></svg>

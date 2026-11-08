@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 256 256" role="img" aria-label="ChromaDB"><title>ChromaDB</title><rect width="256" height="256" rx="60" fill="#242938"/>
+  <defs><clipPath id="l"><circle cx="100" cy="128" r="62"/></clipPath></defs>
+  <circle cx="100" cy="128" r="62" fill="#ffde2d"/>
+  <circle cx="156" cy="128" r="62" fill="#327eff"/>
+  <circle cx="156" cy="128" r="62" fill="#ff6446" clip-path="url(#l)"/></svg>

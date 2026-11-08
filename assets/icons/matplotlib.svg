@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 256 256" role="img" aria-label="Matplotlib"><title>Matplotlib</title><rect width="256" height="256" rx="60" fill="#242938"/>
+  <circle cx="128" cy="128" r="84" fill="none" stroke="#4d5866" stroke-width="4"/>
+  <circle cx="128" cy="128" r="54" fill="none" stroke="#4d5866" stroke-width="4"/>
+  <g transform="translate(128 128)">
+    <path d="M0 0 L0 -80 A80 80 0 0 1 56.6 -56.6 Z" fill="#11557c"/>
+    <path d="M0 0 L42.4 -42.4 A60 60 0 0 1 60 0 Z" fill="#ff7f0e"/>
+    <path d="M0 0 L88 0 A88 88 0 0 1 62.2 62.2 Z" fill="#11557c" opacity=".85"/>
+    <path d="M0 0 L31.8 31.8 A45 45 0 0 1 0 45 Z" fill="#ff7f0e" opacity=".85"/>
+    <path d="M0 0 L0 70 A70 70 0 0 1 -49.5 49.5 Z" fill="#11557c" opacity=".7"/>
+    <path d="M0 0 L-60.8 60.8 A86 86 0 0 1 -86 0 Z" fill="#ff7f0e" opacity=".7"/>
+    <path d="M0 0 L-52 0 A52 52 0 0 1 -36.8 -36.8 Z" fill="#11557c" opacity=".55"/>
+    <path d="M0 0 L-46 -46 A65 65 0 0 1 0 -65 Z" fill="#ff7f0e" opacity=".55"/>
+  </g></svg>

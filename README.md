@@ -21,80 +21,96 @@ I care about what happens under the hood as much as what the user sees.
 <tr>
 <td align="right" width="190"><b>Languages</b></td>
 <td>
-<img src="https://skillicons.dev/icons?i=cpp,py,ts,js,rust,html,css&theme=dark" height="40" alt="C++, Python, TypeScript, JavaScript, Rust, HTML, CSS" />
-<img src="https://img.shields.io/badge/SQL-161b22?style=for-the-badge&logo=mysql&logoColor=E6EDF3" height="28" alt="SQL" />
+<img src="./assets/icons/cpp.svg" width="44" alt="C++" title="C++" />
+<img src="./assets/icons/python.svg" width="44" alt="Python" title="Python" />
+<img src="./assets/icons/typescript.svg" width="44" alt="TypeScript" title="TypeScript" />
+<img src="./assets/icons/javascript.svg" width="44" alt="JavaScript" title="JavaScript" />
+<img src="./assets/icons/rust.svg" width="44" alt="Rust" title="Rust" />
+<img src="./assets/icons/html.svg" width="44" alt="HTML" title="HTML" />
+<img src="./assets/icons/css.svg" width="44" alt="CSS" title="CSS" />
+<img src="./assets/icons/sql.svg" width="44" alt="SQL" title="SQL" />
 </td>
 </tr>
 <tr>
 <td align="right"><b>Frontend</b></td>
 <td>
-<img src="https://skillicons.dev/icons?i=react,svelte,vite,tailwind&theme=dark" height="40" alt="React, Svelte, Vite, Tailwind CSS" />
+<img src="./assets/icons/react.svg" width="44" alt="React" title="React" />
+<img src="./assets/icons/svelte.svg" width="44" alt="Svelte" title="Svelte" />
+<img src="./assets/icons/vite.svg" width="44" alt="Vite" title="Vite" />
+<img src="./assets/icons/tailwind.svg" width="44" alt="Tailwind CSS" title="Tailwind CSS" />
 </td>
 </tr>
 <tr>
 <td align="right"><b>Backend &amp; APIs</b></td>
 <td>
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi&theme=dark" height="40" alt="Node.js, Express, FastAPI" />
-<img src="https://img.shields.io/badge/REST-161b22?style=for-the-badge&logo=openapiinitiative&logoColor=E6EDF3" height="28" alt="REST" />
-<img src="https://img.shields.io/badge/Socket.IO-161b22?style=for-the-badge&logo=socketdotio&logoColor=E6EDF3" height="28" alt="Socket.IO" />
-<img src="https://img.shields.io/badge/MCP-161b22?style=for-the-badge&logo=anthropic&logoColor=E6EDF3" height="28" alt="Model Context Protocol" />
+<img src="./assets/icons/nodejs.svg" width="44" alt="Node.js" title="Node.js" />
+<img src="./assets/icons/express.svg" width="44" alt="Express" title="Express" />
+<img src="./assets/icons/fastapi.svg" width="44" alt="FastAPI" title="FastAPI" />
+<img src="./assets/icons/rest.svg" width="44" alt="REST APIs" title="REST APIs" />
+<img src="./assets/icons/socketio.svg" width="44" alt="Socket.IO" title="Socket.IO" />
+<img src="./assets/icons/mcp.svg" width="44" alt="Model Context Protocol" title="Model Context Protocol" />
 </td>
 </tr>
 <tr>
 <td align="right"><b>Desktop &amp; Native</b></td>
 <td>
-<img src="https://skillicons.dev/icons?i=tauri,electron,qt&theme=dark" height="40" alt="Tauri, Electron, Qt" />
-<img src="https://img.shields.io/badge/Win32_API-161b22?style=for-the-badge&logo=c&logoColor=E6EDF3" height="28" alt="Win32 API" />
-<img src="https://img.shields.io/badge/Chrome_Extensions-161b22?style=for-the-badge&logo=googlechrome&logoColor=E6EDF3" height="28" alt="Chrome Extensions (MV3)" />
+<img src="./assets/icons/tauri.svg" width="44" alt="Tauri" title="Tauri" />
+<img src="./assets/icons/electron.svg" width="44" alt="Electron" title="Electron" />
+<img src="./assets/icons/qt.svg" width="44" alt="Qt / PySide6" title="Qt / PySide6" />
+<img src="./assets/icons/windows.svg" width="44" alt="Win32 API" title="Win32 API" />
+<img src="./assets/icons/chrome.svg" width="44" alt="Chrome Extensions" title="Chrome Extensions" />
 </td>
 </tr>
 <tr>
 <td align="right"><b>AI &amp; ML</b></td>
 <td>
-<img src="https://img.shields.io/badge/Ollama-161b22?style=for-the-badge&logo=ollama&logoColor=E6EDF3" height="28" alt="Ollama" />
-<img src="https://img.shields.io/badge/llama.cpp-161b22?style=for-the-badge&logo=meta&logoColor=E6EDF3" height="28" alt="llama.cpp" />
-<img src="https://img.shields.io/badge/LangChain-161b22?style=for-the-badge&logo=langchain&logoColor=E6EDF3" height="28" alt="LangChain" />
-<img src="https://img.shields.io/badge/Hugging_Face-161b22?style=for-the-badge&logo=huggingface&logoColor=E6EDF3" height="28" alt="Hugging Face" />
-<img src="https://img.shields.io/badge/ChromaDB-161b22?style=for-the-badge&logoColor=E6EDF3" height="28" alt="ChromaDB" />
-<img src="https://img.shields.io/badge/FAISS-161b22?style=for-the-badge&logo=meta&logoColor=E6EDF3" height="28" alt="FAISS" />
-<img src="https://img.shields.io/badge/MediaPipe-161b22?style=for-the-badge&logo=mediapipe&logoColor=E6EDF3" height="28" alt="MediaPipe" />
-<img src="https://img.shields.io/badge/ONNX-161b22?style=for-the-badge&logo=onnx&logoColor=E6EDF3" height="28" alt="ONNX" />
+<img src="./assets/icons/ollama.svg" width="44" alt="Ollama" title="Ollama" />
+<img src="./assets/icons/llamacpp.svg" width="44" alt="llama.cpp" title="llama.cpp" />
+<img src="./assets/icons/langchain.svg" width="44" alt="LangChain" title="LangChain" />
+<img src="./assets/icons/huggingface.svg" width="44" alt="Hugging Face" title="Hugging Face" />
+<img src="./assets/icons/chromadb.svg" width="44" alt="ChromaDB" title="ChromaDB" />
+<img src="./assets/icons/faiss.svg" width="44" alt="FAISS" title="FAISS" />
+<img src="./assets/icons/mediapipe.svg" width="44" alt="MediaPipe" title="MediaPipe" />
+<img src="./assets/icons/onnx.svg" width="44" alt="ONNX Runtime" title="ONNX Runtime" />
 </td>
 </tr>
 <tr>
 <td align="right"><b>Scientific Computing</b></td>
 <td>
-<img src="https://img.shields.io/badge/NumPy-161b22?style=for-the-badge&logo=numpy&logoColor=E6EDF3" height="28" alt="NumPy" />
-<img src="https://img.shields.io/badge/SciPy-161b22?style=for-the-badge&logo=scipy&logoColor=E6EDF3" height="28" alt="SciPy" />
-<img src="https://img.shields.io/badge/Matplotlib-161b22?style=for-the-badge&logo=plotly&logoColor=E6EDF3" height="28" alt="Matplotlib" />
+<img src="./assets/icons/numpy.svg" width="44" alt="NumPy" title="NumPy" />
+<img src="./assets/icons/scipy.svg" width="44" alt="SciPy" title="SciPy" />
+<img src="./assets/icons/matplotlib.svg" width="44" alt="Matplotlib" title="Matplotlib" />
 </td>
 </tr>
 <tr>
 <td align="right"><b>Databases</b></td>
 <td>
-<img src="https://skillicons.dev/icons?i=mysql,sqlite&theme=dark" height="40" alt="MySQL, SQLite" />
-<img src="https://img.shields.io/badge/SQLAlchemy-161b22?style=for-the-badge&logo=sqlalchemy&logoColor=E6EDF3" height="28" alt="SQLAlchemy" />
+<img src="./assets/icons/mysql.svg" width="44" alt="MySQL" title="MySQL" />
+<img src="./assets/icons/sqlite.svg" width="44" alt="SQLite" title="SQLite" />
+<img src="./assets/icons/sqlalchemy.svg" width="44" alt="SQLAlchemy" title="SQLAlchemy" />
 </td>
 </tr>
 <tr>
 <td align="right"><b>Networking</b></td>
 <td>
-<img src="https://img.shields.io/badge/Cisco_Packet_Tracer-161b22?style=for-the-badge&logo=cisco&logoColor=E6EDF3" height="28" alt="Cisco Packet Tracer" />
-<img src="https://img.shields.io/badge/VLAN_%C2%B7_ACL_%C2%B7_DHCP_%C2%B7_DNS-161b22?style=for-the-badge&logoColor=E6EDF3" height="28" alt="VLANs, ACLs, DHCP, DNS" />
+<img src="./assets/icons/cisco.svg" width="44" alt="Cisco Packet Tracer" title="Cisco Packet Tracer" />
+<img src="./assets/icons/networking.svg" width="44" alt="VLAN · ACL · DHCP · DNS" title="VLAN · ACL · DHCP · DNS" />
 </td>
 </tr>
 <tr>
 <td align="right"><b>Testing</b></td>
 <td>
-<img src="https://img.shields.io/badge/Vitest-161b22?style=for-the-badge&logo=vitest&logoColor=E6EDF3" height="28" alt="Vitest" />
-<img src="https://img.shields.io/badge/Playwright-161b22?style=for-the-badge&logo=googlechrome&logoColor=E6EDF3" height="28" alt="Playwright" />
-<img src="https://img.shields.io/badge/pytest-161b22?style=for-the-badge&logo=pytest&logoColor=E6EDF3" height="28" alt="pytest" />
+<img src="./assets/icons/vitest.svg" width="44" alt="Vitest" title="Vitest" />
+<img src="./assets/icons/playwright.svg" width="44" alt="Playwright" title="Playwright" />
+<img src="./assets/icons/pytest.svg" width="44" alt="pytest" title="pytest" />
 </td>
 </tr>
 <tr>
 <td align="right"><b>Tooling</b></td>
 <td>
-<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" height="40" alt="Git, GitHub, VS Code" />
+<img src="./assets/icons/git.svg" width="44" alt="Git" title="Git" />
+<img src="./assets/icons/github.svg" width="44" alt="GitHub" title="GitHub" />
+<img src="./assets/icons/vscode.svg" width="44" alt="VS Code" title="VS Code" />
 </td>
 </tr>
 </table>

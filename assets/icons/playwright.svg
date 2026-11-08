@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 256 256" role="img" aria-label="Playwright"><title>Playwright</title><rect width="256" height="256" rx="60" fill="#242938"/>
+  <g transform="rotate(-12 100 128)">
+    <path d="M44 70h104v62c0 36-23 62-52 62s-52-26-52-62z" fill="#2ead33"/>
+    <circle cx="74" cy="112" r="10" fill="#242938"/><circle cx="118" cy="112" r="10" fill="#242938"/>
+    <path d="M70 148q26 22 52 0" fill="none" stroke="#242938" stroke-width="9" stroke-linecap="round"/>
+  </g>
+  <g transform="rotate(12 160 140)">
+    <path d="M112 84h104v62c0 36-23 62-52 62s-52-26-52-62z" fill="#e2574c" stroke="#242938" stroke-width="8"/>
+    <circle cx="142" cy="126" r="10" fill="#242938"/><circle cx="186" cy="126" r="10" fill="#242938"/>
+    <path d="M138 176q26 -22 52 0" fill="none" stroke="#242938" stroke-width="9" stroke-linecap="round"/>
+  </g></svg>
