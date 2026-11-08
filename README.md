@@ -1,114 +1,107 @@
-<!-- Header -->
 <div align="center">
 
-```ascii
- ██████╗ ██████╗ ██████╗ ███████╗
-██╔════╝██╔═══██╗██╔══██╗██╔════╝
-██║     ██║   ██║██║  ██║█████╗  
-██║     ██║   ██║██║  ██║██╔══╝  
-╚██████╗╚██████╔╝██████╔╝███████╗
- ╚═════╝ ╚═════╝ ╚═════╝ ╚══════╝
-```
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Rohith%20AD&fontSize=56&fontColor=ffffff&fontAlignY=36&desc=Student%20Developer%20%E2%80%A2%20AI%2FML%20%E2%80%A2%20Web%20%E2%80%A2%20Competitive%20Programming&descSize=16&descAlignY=58" width="100%" alt="Rohith AD" />
 
-### *" The best error message is the one that never shows up. "*
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1200&color=4FC3F7&center=true&vCenter=true&width=560&lines=Building+intelligent+systems+that+solve+real+problems;Exploring+Reinforcement+Learning;Shipping+full-stack+web+applications;Optimizing+for+time+and+space+complexity" alt="Typing intro" />
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Student+%7C+Developer+%7C+Problem+Solver;Web+Dev+%2B+AI%2FML+Enthusiast;Competitive+Programmer;Always+learning%2C+always+building...)
+<br/>
+
+[![GitHub](https://img.shields.io/badge/GitHub-Rohithadzero-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Rohithadzero)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rohith%20AD-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/rohith-ad-1914ba386)
+[![Profile Views](https://komarev.com/ghpvc/?username=Rohithadzero&style=flat-square&color=2C5364&label=Profile+Views)](https://github.com/Rohithadzero)
 
 </div>
 
----
+<br/>
 
-## 👾 About Me
+## About
 
-> *"It's not that I'm so smart, it's just that I stay with problems longer."* — Albert Einstein
+I'm a student developer working where algorithms, machine learning and the web meet. I like turning hard problems into clean, efficient solutions, and I build things to understand them.
 
-I'm a passionate **student developer** who lives at the intersection of logic and creativity. I don't just write code — I craft solutions. Whether it's building sleek web interfaces, training intelligent models, or solving algorithmic puzzles at 2AM, I'm always in the zone.
+<table>
+<tr>
+<td width="33%" valign="top">
 
-I believe programming is not just a skill — it's a **superpower**. And I'm here to master it.
+#### 🧠 AI / ML
+- Reinforcement Learning and agent-based systems
+- Supervised and unsupervised learning
+- Running and experimenting with local LLMs
 
--  Exploring **Reinforcement Learning** and agent-based systems
--  Understanding how models learn from data — supervised, unsupervised, and beyond
--  Passionate about building intelligent systems that solve real problems
+</td>
+<td width="33%" valign="top">
 
--  Practicing **DSA** problems regularly
--  Strong foundation in **arrays, stacks, queues, graphs, trees**
--  Always optimizing for **time and space complexity**
+#### ⚙️ Algorithms
+- Regular DSA practice in C++
+- Arrays, stacks, queues, trees, graphs
+- Optimizing for time and space complexity
 
--  Crafting responsive UI with **HTML & CSS**
--  Building dynamic functionality with **JavaScript**
--  Working with **REST APIs** and async programming
--  Integrating real-world APIs like OpenWeatherMap
----
+</td>
+<td width="33%" valign="top">
 
+#### 🌐 Web
+- Responsive interfaces with HTML, CSS and React
+- Dynamic behaviour with JavaScript
+- REST APIs, async programming and third-party integrations such as OpenWeatherMap
 
+</td>
+</tr>
+</table>
 
-## ⚡ Skills & Technologies
+<br/>
+
+## Tech Stack
 
 <div align="center">
 
-### Languages
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=plastic&logo=python&logoColor=F7DF1E) ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=plastic&logo=javascript&logoColor=F7DF1E) ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=plastic&logo=css3&logoColor=white)
+<img src="https://skillicons.dev/icons?i=cpp,py,js,html,css,react&perline=6" alt="C++, Python, JavaScript, HTML, CSS, React" />
 
-### Libraries and Frameworks
-![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white)
+<br/><br/>
 
-### Areas of Interest
-![Web Dev](https://img.shields.io/badge/Web_Dev-%232C3E50.svg?style=plastic&logo=firefoxbrowser&logoColor=FF6B6B) ![AI/ML](https://img.shields.io/badge/AI_--_ML-%23111111.svg?style=plastic&logo=tensorflow&logoColor=00D9FF) ![CP](https://img.shields.io/badge/Comp._Programming-%234A235A.svg?style=plastic&logo=codeforces&logoColor=white) ![App Dev](https://img.shields.io/badge/App_Dev-%23145A32.svg?style=plastic&logo=android&logoColor=2ECC71)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 </div>
 
----
+<br/>
 
-## 🔥 What Drives Me
+## Current Focus
 
+| Area | Focus |
+| :--- | :--- |
+| **Algorithms** | Mastering data structures and algorithms in C++ |
+| **Machine Learning** | Exploring Reinforcement Learning concepts |
+| **Web** | Building full-stack web applications |
+| **AI** | Running LLMs locally and experimenting with them |
 
+<br/>
 
-```python
-class Developer:
-    def __init__(self):
-        self.name        = "Rohith AD"
-        self.role        = "Student Developer"
-        self.languages   = ["C++", "Python", "JavaScript", "HTML", "CSS"]
-        self.interests   = ["Web Dev", "AI/ML", "Competitive Programming"]
-        self.mindset     = "Growth"
-        self.coffee      = float("inf")
+## GitHub Activity
 
-    def current_focus(self):
-        return [
-            "Mastering Data Structures & Algorithms in C++",
-            "Exploring Reinforcement Learning concepts",
-            "Building full stack web applications",
-            "Running LLMs locally and experimenting with AI",
-        ]
+<div align="center">
 
-    def life_motto(self):
-        return "Code. Break. Learn. Repeat. 🚀"
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rohithadzero&theme=github_dark" alt="GitHub stats" />
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rohithadzero&theme=github_dark" alt="Repos per language" />
 
-me = Developer()
-print(me.life_motto())
-```
+<img src="https://streak-stats.demolab.com?user=Rohithadzero&theme=transparent&hide_border=true&ring=4FC3F7&fire=4FC3F7&currStreakLabel=4FC3F7&sideLabels=8B949E&dates=8B949E&currStreakNum=8B949E&sideNums=8B949E" alt="GitHub streak" />
 
----
-## 🤝 Let's Connect & Collaborate
+</div>
 
-> *"Alone we can do so little; together we can do so much."* — Helen Keller
+<br/>
 
-I'm always looking to connect with fellow developers, innovators, and tech enthusiasts. If you have a project idea, want to collaborate, or just want to talk tech — I'm all ears!
+## Let's Connect
+
+I'm open to collaborating on projects, open-source work and interesting problems in AI and the web. Feel free to reach out.
 
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rohithadzero)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rohith-ad-1914ba386)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rohith-ad-1914ba386)
 
+<br/>
 
-</div>
+<sub><i>"First, solve the problem. Then, write the code." — John Johnson</i></sub>
 
----
-
-<div align="center">
-
-### ⚡ *"First, solve the problem. Then, write the code."* — John Johnson
-
-*Thanks for visiting! Don't forget to ⭐ if you found something interesting.*
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=110&section=footer" width="100%" alt="" />
 
 </div>
