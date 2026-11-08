@@ -1,8 +1,16 @@
 <div align="center">
 
-<img src="./assets/header.svg" width="100%" alt="Rohith AD" />
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="./assets/header-light.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/header.svg" />
+  <img src="./assets/header.svg" width="100%" alt="Rohith AD" />
+</picture>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3200&pause=900&color=C4B5FD&center=true&vCenter=true&width=640&lines=%3E+building+local-first+desktop+apps;%3E+wiring+LLMs+into+real+tools;%3E+computer+vision+%C2%B7+signal+processing;%3E+automating+networks+end-to-end" alt="What I build" />
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3200&pause=900&color=6D28D9&center=true&vCenter=true&width=640&lines=%3E+building+local-first+desktop+apps;%3E+wiring+LLMs+into+real+tools;%3E+computer+vision+%C2%B7+signal+processing;%3E+automating+networks+end-to-end" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3200&pause=900&color=C4B5FD&center=true&vCenter=true&width=640&lines=%3E+building+local-first+desktop+apps;%3E+wiring+LLMs+into+real+tools;%3E+computer+vision+%C2%B7+signal+processing;%3E+automating+networks+end-to-end" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3200&pause=900&color=C4B5FD&center=true&vCenter=true&width=640&lines=%3E+building+local-first+desktop+apps;%3E+wiring+LLMs+into+real+tools;%3E+computer+vision+%C2%B7+signal+processing;%3E+automating+networks+end-to-end" alt="What I build" />
+</picture>
 
 </div>
 
@@ -11,15 +19,27 @@ I build software that runs close to the machine: native desktop apps, on-device 
 I care about what happens under the hood as much as what the user sees.
 </p>
 
-<img src="./assets/divider.svg" width="100%" alt="" />
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="./assets/divider-light.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/divider.svg" />
+  <img src="./assets/divider.svg" width="100%" alt="" />
+</picture>
 
 ## 🪐 Tech Universe
 
 <div align="center">
-<img src="./assets/orbit.svg" width="100%" alt="Technologies I work with, orbiting by category" />
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="./assets/orbit-light.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/orbit.svg" />
+  <img src="./assets/orbit.svg" width="100%" alt="Technologies I work with, orbiting by category" />
+</picture>
 </div>
 
-<img src="./assets/divider.svg" width="100%" alt="" />
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="./assets/divider-light.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/divider.svg" />
+  <img src="./assets/divider.svg" width="100%" alt="" />
+</picture>
 
 ## 🛰️ Arsenal
 
@@ -105,7 +125,11 @@ I care about what happens under the hood as much as what the user sees.
 </tr>
 </table>
 
-<img src="./assets/divider.svg" width="100%" alt="" />
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="./assets/divider-light.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/divider.svg" />
+  <img src="./assets/divider.svg" width="100%" alt="" />
+</picture>
 
 ## 🌌 Design &amp; Analysis
 
@@ -144,7 +168,11 @@ I care about what happens under the hood as much as what the user sees.
 </tr>
 </table>
 
-<img src="./assets/divider.svg" width="100%" alt="" />
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="./assets/divider-light.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/divider.svg" />
+  <img src="./assets/divider.svg" width="100%" alt="" />
+</picture>
 
 ## 🚀 Mission Log
 
@@ -157,20 +185,36 @@ I care about what happens under the hood as much as what the user sees.
 | OS · DBMS · Computer Networks | React Native · Flutter | Open-source contribution (GSoC) |
 | Cyber security and CTFs | scikit-learn | |
 
-<img src="./assets/divider.svg" width="100%" alt="" />
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="./assets/divider-light.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/divider.svg" />
+  <img src="./assets/divider.svg" width="100%" alt="" />
+</picture>
 
 ## 📡 Telemetry
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rohithadzero&theme=tokyonight" width="100%" alt="GitHub contribution summary" />
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rohithadzero&theme=default" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rohithadzero&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rohithadzero&theme=tokyonight" width="100%" alt="GitHub contribution summary" />
+</picture>
 
-<img src="https://streak-stats.demolab.com?user=Rohithadzero&background=0D1117&ring=A78BFA&fire=F0ABFC&currStreakLabel=C4B5FD&sideLabels=C4B5FD&currStreakNum=EDE9FE&sideNums=EDE9FE&dates=8B7FB8&stroke=30363D&hide_border=true" alt="GitHub streak" />
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=Rohithadzero&background=FFFFFF&ring=7C3AED&fire=C026D3&currStreakLabel=6D28D9&sideLabels=6D28D9&currStreakNum=1E1B4B&sideNums=1E1B4B&dates=6B7280&stroke=D0D7DE&hide_border=true" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Rohithadzero&background=0D1117&ring=A78BFA&fire=F0ABFC&currStreakLabel=C4B5FD&sideLabels=C4B5FD&currStreakNum=EDE9FE&sideNums=EDE9FE&dates=8B7FB8&stroke=30363D&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=Rohithadzero&background=0D1117&ring=A78BFA&fire=F0ABFC&currStreakLabel=C4B5FD&sideLabels=C4B5FD&currStreakNum=EDE9FE&sideNums=EDE9FE&dates=8B7FB8&stroke=30363D&hide_border=true" alt="GitHub streak" />
+</picture>
 
 </div>
 
 <br/>
 
 <div align="center">
-<img src="./assets/footer.svg" width="100%" alt="Per aspera ad astra" />
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="./assets/footer-light.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/footer.svg" />
+  <img src="./assets/footer.svg" width="100%" alt="Per aspera ad astra" />
+</picture>
 </div>

@@ -5,7 +5,7 @@
       <stop offset="0" stop-color="#2a1660" stop-opacity=".55"/><stop offset=".55" stop-color="#1a0f45" stop-opacity=".25"/><stop offset="1" stop-color="#1a0f45" stop-opacity="0"/>
     </radialGradient>
     <radialGradient id="sun" cx=".4" cy=".35" r=".7">
-      <stop offset="0" stop-color="#fff7ed"/><stop offset=".35" stop-color="#f0abfc"/><stop offset=".8" stop-color="#7c3aed"/><stop offset="1" stop-color="#4c1d95"/>
+      <stop offset="0" stop-color="#fff7ed"/><stop offset=".35" stop-color="#f0abfd"/><stop offset=".8" stop-color="#7c3aed"/><stop offset="1" stop-color="#4c1d95"/>
     </radialGradient>
     <radialGradient id="corona"><stop offset="0" stop-color="#e879f9" stop-opacity=".55"/><stop offset="1" stop-color="#e879f9" stop-opacity="0"/></radialGradient>
     

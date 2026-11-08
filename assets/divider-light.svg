@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 34" width="1000" height="34" role="img" aria-label="divider">
+  <defs>
+    <linearGradient id="line" x1="0" x2="1">
+      <stop offset="0" stop-color="#7c3aed" stop-opacity="0"/><stop offset=".5" stop-color="#7c3aed"/><stop offset="1" stop-color="#7c3aed" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="trail" x1="1" x2="0"><stop offset="0" stop-color="#7c3aed"/><stop offset="1" stop-color="#c026d3" stop-opacity="0"/></linearGradient>
+    
+    <filter id="starglow" x="-300%" y="-300%" width="700%" height="700%">
+      <feGaussianBlur stdDeviation="1.6" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+
+  </defs>
+  <style>
+    .s { fill: #7c3aed; animation: twinkle ease-in-out infinite; }
+    .big { fill: #c026d3; filter: url(#starglow); }
+    @keyframes twinkle { 0%,100% { opacity: .15 } 50% { opacity: 1 } }
+</style>
+  <rect x="0" y="17.0" width="1000" height="1" fill="url(#line)" opacity=".6"/>
+  <g>
+    <circle class="s" cx="238.0" cy="18.5" r="0.77" style="animation-duration:4.8s;animation-delay:-3.75s"/>
+    <circle class="s big" cx="65.5" cy="0.4" r="1.24" style="animation-duration:3.32s;animation-delay:-1.41s"/>
+    <circle class="s big" cx="995.6" cy="16.0" r="1.24" style="animation-duration:4.25s;animation-delay:-3.83s"/>
+    <circle class="s big" cx="150.6" cy="21.6" r="1.27" style="animation-duration:4.45s;animation-delay:-4.45s"/>
+    <circle class="s" cx="671.4" cy="2.2" r="1.16" style="animation-duration:4.74s;animation-delay:-1.81s"/>
+    <circle class="s" cx="31.0" cy="29.4" r="0.87" style="animation-duration:5.29s;animation-delay:-5.27s"/>
+    <circle class="s" cx="714.1" cy="31.3" r="0.79" style="animation-duration:5.64s;animation-delay:-2.67s"/>
+    <circle class="s" cx="935.6" cy="29.9" r="0.5" style="animation-duration:2.78s;animation-delay:-1.3s"/>
+    <circle class="s" cx="965.5" cy="14.8" r="1.03" style="animation-duration:3.49s;animation-delay:-3.04s"/>
+    <circle class="s" cx="385.9" cy="11.9" r="0.99" style="animation-duration:4.71s;animation-delay:-5.43s"/>
+    <circle class="s big" cx="682.0" cy="31.6" r="1.26" style="animation-duration:6.46s;animation-delay:-4.03s"/>
+    <circle class="s big" cx="163.1" cy="29.3" r="1.36" style="animation-duration:6.09s;animation-delay:-3.41s"/>
+    <circle class="s big" cx="713.8" cy="7.2" r="1.23" style="animation-duration:4.67s;animation-delay:-1.71s"/>
+    <circle class="s big" cx="63.5" cy="29.0" r="1.39" style="animation-duration:2.58s;animation-delay:-4.8s"/>
+    <circle class="s" cx="410.5" cy="5.1" r="0.69" style="animation-duration:5.51s;animation-delay:-5.24s"/>
+    <circle class="s" cx="44.2" cy="20.9" r="0.44" style="animation-duration:5.29s;animation-delay:-1.99s"/>
+    <circle class="s" cx="880.9" cy="33.3" r="0.91" style="animation-duration:6.49s;animation-delay:-1.86s"/>
+    <circle class="s" cx="77.0" cy="20.4" r="0.43" style="animation-duration:3.05s;animation-delay:-2.45s"/>
+    <circle class="s" cx="610.5" cy="5.3" r="0.44" style="animation-duration:5.93s;animation-delay:-1.88s"/>
+    <circle class="s" cx="958.7" cy="30.5" r="0.78" style="animation-duration:4.18s;animation-delay:-3.12s"/>
+    <circle class="s" cx="643.9" cy="20.3" r="0.96" style="animation-duration:4.87s;animation-delay:-5.64s"/>
+    <circle class="s" cx="507.0" cy="14.7" r="1.12" style="animation-duration:3.22s;animation-delay:-1.81s"/>
+    <circle class="s" cx="977.8" cy="17.7" r="0.95" style="animation-duration:2.25s;animation-delay:-2.49s"/>
+    <circle class="s" cx="580.0" cy="0.7" r="1.02" style="animation-duration:4.92s;animation-delay:-0.36s"/>
+    <circle class="s" cx="627.3" cy="15.9" r="1.08" style="animation-duration:3.72s;animation-delay:-4.24s"/>
+    <circle class="s" cx="738.0" cy="0.8" r="0.46" style="animation-duration:5.11s;animation-delay:-5.78s"/>
+    <circle class="s" cx="251.1" cy="15.5" r="0.99" style="animation-duration:3.58s;animation-delay:-2.18s"/>
+    <circle class="s" cx="312.7" cy="12.6" r="1.0" style="animation-duration:3.49s;animation-delay:-2.26s"/>
+    <circle class="s" cx="772.3" cy="0.9" r="0.97" style="animation-duration:5.36s;animation-delay:-1.86s"/>
+    <circle class="s" cx="222.5" cy="27.3" r="0.64" style="animation-duration:3.01s;animation-delay:-2.61s"/>
+    <circle class="s" cx="698.1" cy="3.5" r="0.72" style="animation-duration:3.64s;animation-delay:-5.0s"/>
+    <circle class="s" cx="438.4" cy="29.1" r="0.57" style="animation-duration:3.65s;animation-delay:-3.9s"/>
+    <circle class="s" cx="884.9" cy="15.3" r="0.63" style="animation-duration:2.72s;animation-delay:-3.18s"/>
+    <circle class="s big" cx="190.8" cy="27.4" r="1.24" style="animation-duration:2.99s;animation-delay:-1.67s"/>
+    <circle class="s big" cx="807.2" cy="21.8" r="1.21" style="animation-duration:3.68s;animation-delay:-0.78s"/>
+    <circle class="s" cx="291.9" cy="27.0" r="0.67" style="animation-duration:3.69s;animation-delay:-2.5s"/>
+    <circle class="s big" cx="419.8" cy="13.9" r="1.32" style="animation-duration:2.87s;animation-delay:-0.03s"/>
+    <circle class="s big" cx="943.3" cy="29.9" r="1.39" style="animation-duration:4.07s;animation-delay:-5.7s"/>
+    <circle class="s" cx="927.4" cy="7.6" r="1.15" style="animation-duration:5.8s;animation-delay:-3.98s"/>
+    <circle class="s" cx="519.0" cy="9.8" r="0.74" style="animation-duration:3.18s;animation-delay:-0.41s"/>
+  </g>
+  <g>
+    <rect x="-90" y="16.0" width="90" height="2" fill="url(#trail)"/>
+    <circle cx="0" cy="17.0" r="2.6" fill="#7c3aed" filter="url(#starglow)"/>
+    <animateTransform attributeName="transform" type="translate" values="-20 0; 1100 0" dur="6s" repeatCount="indefinite"/>
+  </g>
+</svg>
