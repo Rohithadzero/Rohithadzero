@@ -79,9 +79,4 @@
 </tr>
 </table>
 
-<p align="center">
-<b>Now learning</b> DSA in C++ · FastAPI · TypeScript + Express · Linux<br/>
-<b>Next</b> Next.js · PostgreSQL · Docker · PyTorch
-</p>
-
 <p align="center"><sub><i>Per aspera ad astra: through hardships to the stars.</i></sub></p>
