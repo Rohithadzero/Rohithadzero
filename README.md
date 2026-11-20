@@ -84,45 +84,4 @@
 <b>Next</b> Next.js · PostgreSQL · Docker · PyTorch
 </p>
 
-<details>
-<summary><b>Design &amp; analysis</b></summary>
-<br/>
-
-<table>
-<tr>
-<td width="33%" valign="top">
-
-#### Algorithms
-- Asymptotic time and space analysis
-- Divide and conquer: merge sort, quick sort, binary search
-- Greedy and dynamic programming: knapsack
-- Graph traversal: BFS, DFS
-- Heaps, hashing, monotonic stacks, two pointers
-
-</td>
-<td width="33%" valign="top">
-
-#### Systems
-- Local-first, privacy-by-default architecture
-- Gateway and proxy design: REST + MCP over one engine
-- Threaded engine loops and incremental, time-sliced pipelines
-- Retrieval-augmented generation with grounded answers
-- Network segmentation: flat to micro-segmented designs
-
-</td>
-<td width="33%" valign="top">
-
-#### Data &amp; Math
-- Relational design: normal forms, indexes, views, triggers, stored procedures
-- Fourier transforms, SVD and Wiener filtering
-- Perceptual colour spaces (OKLab)
-- Real-time face landmarks and gaze estimation
-- Safe UX: confirmations and undo for every risky action
-
-</td>
-</tr>
-</table>
-
-</details>
-
 <p align="center"><sub><i>Per aspera ad astra: through hardships to the stars.</i></sub></p>
