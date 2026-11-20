@@ -1,153 +1,92 @@
-<div align="center">
-
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="./assets/header-light.svg" />
   <source media="(prefers-color-scheme: dark)" srcset="./assets/header.svg" />
   <img src="./assets/header.svg" width="100%" alt="Rohith AD" />
 </picture>
 
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3200&pause=900&color=656D76&center=true&vCenter=true&width=640&lines=%3E+building+local-first+desktop+apps;%3E+wiring+LLMs+into+real+tools;%3E+computer+vision+%C2%B7+signal+processing;%3E+automating+networks+end-to-end" />
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3200&pause=900&color=8B949E&center=true&vCenter=true&width=640&lines=%3E+building+local-first+desktop+apps;%3E+wiring+LLMs+into+real+tools;%3E+computer+vision+%C2%B7+signal+processing;%3E+automating+networks+end-to-end" />
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3200&pause=900&color=8B949E&center=true&vCenter=true&width=640&lines=%3E+building+local-first+desktop+apps;%3E+wiring+LLMs+into+real+tools;%3E+computer+vision+%C2%B7+signal+processing;%3E+automating+networks+end-to-end" alt="What I build" />
-</picture>
-
-</div>
-
-<p align="center">
-I build software that runs close to the machine: native desktop apps, on-device AI, browser engines and network automation.<br/>
-I care about what happens under the hood as much as what the user sees.
-</p>
-
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="./assets/divider-light.svg" />
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/divider.svg" />
-  <img src="./assets/divider.svg" width="100%" alt="" />
-</picture>
-
-## Tech Universe
-
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="./assets/orbit-light.svg" />
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/orbit.svg" />
-  <img src="./assets/orbit.svg" width="100%" alt="Technologies I work with, orbiting by category" />
-</picture>
-</div>
-
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="./assets/divider-light.svg" />
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/divider.svg" />
-  <img src="./assets/divider.svg" width="100%" alt="" />
-</picture>
-
-## Arsenal
+<p align="center">I build local-first desktop apps, on-device AI tools and network automation.</p>
 
 <table align="center">
 <tr>
-<td align="right" width="190"><b>Languages</b></td>
+<td align="right"><b>Languages</b></td>
 <td>
-<img src="./assets/icons/cpp.svg" width="44" alt="C++" title="C++" />
-<img src="./assets/icons/python.svg" width="44" alt="Python" title="Python" />
-<img src="./assets/icons/typescript.svg" width="44" alt="TypeScript" title="TypeScript" />
-<img src="./assets/icons/javascript.svg" width="44" alt="JavaScript" title="JavaScript" />
-<img src="./assets/icons/rust.svg" width="44" alt="Rust" title="Rust" />
-<img src="./assets/icons/html.svg" width="44" alt="HTML" title="HTML" />
-<img src="./assets/icons/css.svg" width="44" alt="CSS" title="CSS" />
-<img src="./assets/icons/sql.svg" width="44" alt="SQL" title="SQL" />
+<img src="./assets/icons/cpp.svg" width="40" alt="C++" title="C++" />
+<img src="./assets/icons/python.svg" width="40" alt="Python" title="Python" />
+<img src="./assets/icons/typescript.svg" width="40" alt="TypeScript" title="TypeScript" />
+<img src="./assets/icons/javascript.svg" width="40" alt="JavaScript" title="JavaScript" />
+<img src="./assets/icons/rust.svg" width="40" alt="Rust" title="Rust" />
+<img src="./assets/icons/html.svg" width="40" alt="HTML" title="HTML" />
+<img src="./assets/icons/css.svg" width="40" alt="CSS" title="CSS" />
+<img src="./assets/icons/sql.svg" width="40" alt="SQL" title="SQL" />
 </td>
 </tr>
 <tr>
-<td align="right"><b>Frontend</b></td>
+<td align="right"><b>Web</b></td>
 <td>
-<img src="./assets/icons/react.svg" width="44" alt="React" title="React" />
-<img src="./assets/icons/svelte.svg" width="44" alt="Svelte" title="Svelte" />
-<img src="./assets/icons/vite.svg" width="44" alt="Vite" title="Vite" />
-<img src="./assets/icons/tailwind.svg" width="44" alt="Tailwind CSS" title="Tailwind CSS" />
+<img src="./assets/icons/react.svg" width="40" alt="React" title="React" />
+<img src="./assets/icons/svelte.svg" width="40" alt="Svelte" title="Svelte" />
+<img src="./assets/icons/vite.svg" width="40" alt="Vite" title="Vite" />
+<img src="./assets/icons/tailwind.svg" width="40" alt="Tailwind CSS" title="Tailwind CSS" />
+<img src="./assets/icons/nodejs.svg" width="40" alt="Node.js" title="Node.js" />
+<img src="./assets/icons/express.svg" width="40" alt="Express" title="Express" />
+<img src="./assets/icons/fastapi.svg" width="40" alt="FastAPI" title="FastAPI" />
+<img src="./assets/icons/rest.svg" width="40" alt="REST APIs" title="REST APIs" />
+<img src="./assets/icons/socketio.svg" width="40" alt="Socket.IO" title="Socket.IO" />
 </td>
 </tr>
 <tr>
-<td align="right"><b>Backend &amp; APIs</b></td>
+<td align="right"><b>Desktop</b></td>
 <td>
-<img src="./assets/icons/nodejs.svg" width="44" alt="Node.js" title="Node.js" />
-<img src="./assets/icons/express.svg" width="44" alt="Express" title="Express" />
-<img src="./assets/icons/fastapi.svg" width="44" alt="FastAPI" title="FastAPI" />
-<img src="./assets/icons/rest.svg" width="44" alt="REST APIs" title="REST APIs" />
-<img src="./assets/icons/socketio.svg" width="44" alt="Socket.IO" title="Socket.IO" />
-<img src="./assets/icons/mcp.svg" width="44" alt="Model Context Protocol" title="Model Context Protocol" />
+<img src="./assets/icons/tauri.svg" width="40" alt="Tauri" title="Tauri" />
+<img src="./assets/icons/electron.svg" width="40" alt="Electron" title="Electron" />
+<img src="./assets/icons/qt.svg" width="40" alt="Qt / PySide6" title="Qt / PySide6" />
+<img src="./assets/icons/windows.svg" width="40" alt="Win32 API" title="Win32 API" />
+<img src="./assets/icons/chrome.svg" width="40" alt="Chrome Extensions" title="Chrome Extensions" />
 </td>
 </tr>
 <tr>
-<td align="right"><b>Desktop &amp; Native</b></td>
+<td align="right"><b>AI &amp; Data</b></td>
 <td>
-<img src="./assets/icons/tauri.svg" width="44" alt="Tauri" title="Tauri" />
-<img src="./assets/icons/electron.svg" width="44" alt="Electron" title="Electron" />
-<img src="./assets/icons/qt.svg" width="44" alt="Qt / PySide6" title="Qt / PySide6" />
-<img src="./assets/icons/windows.svg" width="44" alt="Win32 API" title="Win32 API" />
-<img src="./assets/icons/chrome.svg" width="44" alt="Chrome Extensions" title="Chrome Extensions" />
+<img src="./assets/icons/ollama.svg" width="40" alt="Ollama" title="Ollama" />
+<img src="./assets/icons/llamacpp.svg" width="40" alt="llama.cpp" title="llama.cpp" />
+<img src="./assets/icons/langchain.svg" width="40" alt="LangChain" title="LangChain" />
+<img src="./assets/icons/huggingface.svg" width="40" alt="Hugging Face" title="Hugging Face" />
+<img src="./assets/icons/chromadb.svg" width="40" alt="ChromaDB" title="ChromaDB" />
+<img src="./assets/icons/faiss.svg" width="40" alt="FAISS" title="FAISS" />
+<img src="./assets/icons/mediapipe.svg" width="40" alt="MediaPipe" title="MediaPipe" />
+<img src="./assets/icons/onnx.svg" width="40" alt="ONNX Runtime" title="ONNX Runtime" />
+<img src="./assets/icons/mcp.svg" width="40" alt="Model Context Protocol" title="Model Context Protocol" />
+<img src="./assets/icons/numpy.svg" width="40" alt="NumPy" title="NumPy" />
+<img src="./assets/icons/scipy.svg" width="40" alt="SciPy" title="SciPy" />
+<img src="./assets/icons/matplotlib.svg" width="40" alt="Matplotlib" title="Matplotlib" />
 </td>
 </tr>
 <tr>
-<td align="right"><b>AI &amp; ML</b></td>
+<td align="right"><b>Data &amp; Tools</b></td>
 <td>
-<img src="./assets/icons/ollama.svg" width="44" alt="Ollama" title="Ollama" />
-<img src="./assets/icons/llamacpp.svg" width="44" alt="llama.cpp" title="llama.cpp" />
-<img src="./assets/icons/langchain.svg" width="44" alt="LangChain" title="LangChain" />
-<img src="./assets/icons/huggingface.svg" width="44" alt="Hugging Face" title="Hugging Face" />
-<img src="./assets/icons/chromadb.svg" width="44" alt="ChromaDB" title="ChromaDB" />
-<img src="./assets/icons/faiss.svg" width="44" alt="FAISS" title="FAISS" />
-<img src="./assets/icons/mediapipe.svg" width="44" alt="MediaPipe" title="MediaPipe" />
-<img src="./assets/icons/onnx.svg" width="44" alt="ONNX Runtime" title="ONNX Runtime" />
-</td>
-</tr>
-<tr>
-<td align="right"><b>Scientific Computing</b></td>
-<td>
-<img src="./assets/icons/numpy.svg" width="44" alt="NumPy" title="NumPy" />
-<img src="./assets/icons/scipy.svg" width="44" alt="SciPy" title="SciPy" />
-<img src="./assets/icons/matplotlib.svg" width="44" alt="Matplotlib" title="Matplotlib" />
-</td>
-</tr>
-<tr>
-<td align="right"><b>Databases</b></td>
-<td>
-<img src="./assets/icons/mysql.svg" width="44" alt="MySQL" title="MySQL" />
-<img src="./assets/icons/sqlite.svg" width="44" alt="SQLite" title="SQLite" />
-<img src="./assets/icons/sqlalchemy.svg" width="44" alt="SQLAlchemy" title="SQLAlchemy" />
-</td>
-</tr>
-<tr>
-<td align="right"><b>Networking</b></td>
-<td>
-<img src="./assets/icons/cisco.svg" width="44" alt="Cisco Packet Tracer" title="Cisco Packet Tracer" />
-<img src="./assets/icons/networking.svg" width="44" alt="VLAN · ACL · DHCP · DNS" title="VLAN · ACL · DHCP · DNS" />
-</td>
-</tr>
-<tr>
-<td align="right"><b>Testing</b></td>
-<td>
-<img src="./assets/icons/vitest.svg" width="44" alt="Vitest" title="Vitest" />
-<img src="./assets/icons/playwright.svg" width="44" alt="Playwright" title="Playwright" />
-<img src="./assets/icons/pytest.svg" width="44" alt="pytest" title="pytest" />
-</td>
-</tr>
-<tr>
-<td align="right"><b>Tooling</b></td>
-<td>
-<img src="./assets/icons/git.svg" width="44" alt="Git" title="Git" />
-<img src="./assets/icons/github.svg" width="44" alt="GitHub" title="GitHub" />
-<img src="./assets/icons/vscode.svg" width="44" alt="VS Code" title="VS Code" />
+<img src="./assets/icons/mysql.svg" width="40" alt="MySQL" title="MySQL" />
+<img src="./assets/icons/sqlite.svg" width="40" alt="SQLite" title="SQLite" />
+<img src="./assets/icons/sqlalchemy.svg" width="40" alt="SQLAlchemy" title="SQLAlchemy" />
+<img src="./assets/icons/cisco.svg" width="40" alt="Cisco Packet Tracer" title="Cisco Packet Tracer" />
+<img src="./assets/icons/networking.svg" width="40" alt="VLAN · ACL · DHCP · DNS" title="VLAN · ACL · DHCP · DNS" />
+<img src="./assets/icons/vitest.svg" width="40" alt="Vitest" title="Vitest" />
+<img src="./assets/icons/playwright.svg" width="40" alt="Playwright" title="Playwright" />
+<img src="./assets/icons/pytest.svg" width="40" alt="pytest" title="pytest" />
+<img src="./assets/icons/git.svg" width="40" alt="Git" title="Git" />
+<img src="./assets/icons/github.svg" width="40" alt="GitHub" title="GitHub" />
+<img src="./assets/icons/vscode.svg" width="40" alt="VS Code" title="VS Code" />
 </td>
 </tr>
 </table>
 
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="./assets/divider-light.svg" />
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/divider.svg" />
-  <img src="./assets/divider.svg" width="100%" alt="" />
-</picture>
+<p align="center">
+<b>Now learning</b> DSA in C++ · FastAPI · TypeScript + Express · Linux<br/>
+<b>Next</b> Next.js · PostgreSQL · Docker · PyTorch
+</p>
 
-## Design &amp; Analysis
+<details>
+<summary><b>Design &amp; analysis</b></summary>
+<br/>
 
 <table>
 <tr>
@@ -184,53 +123,6 @@ I care about what happens under the hood as much as what the user sees.
 </tr>
 </table>
 
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="./assets/divider-light.svg" />
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/divider.svg" />
-  <img src="./assets/divider.svg" width="100%" alt="" />
-</picture>
+</details>
 
-## Mission Log
-
-| In orbit (learning now) | Next launch | Deep space |
-| :--- | :--- | :--- |
-| DSA in C++ on LeetCode | Next.js | Advanced DP and graph algorithms |
-| FastAPI | PostgreSQL · MongoDB | C++ internals: memory, move semantics, low latency |
-| TypeScript + Express | Docker · Redis | Deep learning with PyTorch and TensorFlow |
-| Linux and Bash | Supabase · Firebase | System design |
-| OS · DBMS · Computer Networks | React Native · Flutter | Open-source contribution (GSoC) |
-| Cyber security and CTFs | scikit-learn | |
-
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="./assets/divider-light.svg" />
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/divider.svg" />
-  <img src="./assets/divider.svg" width="100%" alt="" />
-</picture>
-
-## Telemetry
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rohithadzero&theme=github" />
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rohithadzero&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rohithadzero&theme=github_dark" width="100%" alt="GitHub contribution summary" />
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=Rohithadzero&background=FFFFFF&ring=0969DA&fire=0969DA&currStreakLabel=1F2328&sideLabels=1F2328&currStreakNum=1F2328&sideNums=1F2328&dates=656D76&stroke=D0D7DE&hide_border=true" />
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Rohithadzero&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=E6EDF3&sideLabels=E6EDF3&currStreakNum=E6EDF3&sideNums=E6EDF3&dates=8B949E&stroke=30363D&hide_border=true" />
-  <img src="https://streak-stats.demolab.com?user=Rohithadzero&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=E6EDF3&sideLabels=E6EDF3&currStreakNum=E6EDF3&sideNums=E6EDF3&dates=8B949E&stroke=30363D&hide_border=true" alt="GitHub streak" />
-</picture>
-
-</div>
-
-<br/>
-
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="./assets/footer-light.svg" />
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/footer.svg" />
-  <img src="./assets/footer.svg" width="100%" alt="Per aspera ad astra" />
-</picture>
-</div>
+<p align="center"><sub><i>Per aspera ad astra: through hardships to the stars.</i></sub></p>
