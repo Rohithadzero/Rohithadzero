@@ -4,8 +4,6 @@
   <img src="./assets/header.svg" width="100%" alt="Rohith AD" />
 </picture>
 
-<p align="center">I build local-first desktop apps, on-device AI tools and network automation.</p>
-
 <table align="center">
 <tr>
 <td align="right"><b>Languages</b></td>
